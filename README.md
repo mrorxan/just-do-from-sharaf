@@ -1,7 +1,7 @@
 # just-do
 a open source to-do without distracted stuffs
 
-![alt text](images/just-do.png)
+
 
 ## tech stack
 - [Next.js](https://nextjs.org/)
